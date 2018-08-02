@@ -1,6 +1,6 @@
 # Data Rescue SF Bay
 
-Code for the website: [http://datarescuesfbay.org/](http://datarescuesfbay.org/)
+Code for the website: [http://datarescuesfbay.github.io/](http://datarescuesfbay.github.io/)
 
 ---
 
